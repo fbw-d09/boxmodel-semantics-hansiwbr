@@ -3,14 +3,10 @@
 
 }
 
-* :hover 
-{
-    border: 2px solid red;
-}
 .autos
 {
     width: 90%;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .autos div
@@ -18,10 +14,12 @@
     display: inline-block;
     width: 49%;
     
-    
-
 }
 
+.geschichte h2
+{
+    text-align: center;
+}
 
 
 
